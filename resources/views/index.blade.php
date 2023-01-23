@@ -39,9 +39,7 @@
 										</div>
 										<div class="col-md-12">
 											<div class="form-group">
-												<a href="#" target="_blank">
-													<input type="submit" class="btn btn-primary" value="Send Message">
-												</a>
+												<input type="submit" class="btn btn-primary" value="Send Message">
 											</div>
 										</div>
 									</div>
