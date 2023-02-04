@@ -48,6 +48,10 @@
 						</div>
 					</div>
 				</div>
+				<div class="mt-2 bg-gray">
+					<p class="text-center">Made with &#10085; by <a href="https://github.com/doBoi">doBoi</a>
+					<p>
+				</div>
 			</div>
 		</div>
 	</div>
