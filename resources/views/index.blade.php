@@ -15,7 +15,7 @@
 					<div class="row">
 						<div class="col-md-9 col-lg-7">
 							<div class="contact-wrap w-100 p-md-5 p-4">
-								<h3 class="mb-4">Get in touch with us</h3>
+								<h3 class="mb-4">Send A Message</h3>
 								<div id="form-message-warning" class="mb-4"></div>
 								<div id="form-message-success" class="mb-4">
 									Your message was sent, thank you!
